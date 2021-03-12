@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[createcustomer]]>
+    </line>
+    <line>
+      <![CDATA[deletecustomer]]>
+    </line>
+    <line>
+      <![CDATA[modifycustomer]]>
+    </line>
+    <line>
+      <![CDATA[createproject]]>
+    </line>
+    <line>
+      <![CDATA[deleteproject]]>
+    </line>
+    <line>
+      <![CDATA[modifyproject]]>
+    </line>
+    <line>
+      <![CDATA[createcustomer]]>
+    </line>
+    <line>
+      <![CDATA[createcustomer]]>
+    </line>
+    <line>
+      <![CDATA[createcustomer]]>
+    </line>
+    <line>
+      <![CDATA[deletecustomer]]>
+    </line>
+    <line>
+      <![CDATA[modifycustomer]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-03-01T18:17:16 IST" name="Suite" finished-at="2021-03-01T18:17:17 IST" duration-ms="784">
+    <groups>
+    </groups>
+    <test started-at="2021-03-01T18:17:16 IST" name="Test" finished-at="2021-03-01T18:17:17 IST" duration-ms="784">
+      <class name="qsp.Demo">
+        <test-method signature="createcustomer()[pri:1, instance:qsp.Demo@574b560f]" started-at="2021-03-01T18:17:17 IST" name="createcustomer" finished-at="2021-03-01T18:17:17 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[createcustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createcustomer -->
+        <test-method signature="createcustomer()[pri:1, instance:qsp.Demo@574b560f]" started-at="2021-03-01T18:17:17 IST" name="createcustomer" finished-at="2021-03-01T18:17:17 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[createcustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createcustomer -->
+        <test-method signature="createcustomer()[pri:1, instance:qsp.Demo@574b560f]" started-at="2021-03-01T18:17:17 IST" name="createcustomer" finished-at="2021-03-01T18:17:17 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[createcustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createcustomer -->
+        <test-method signature="deletecustomer()[pri:1, instance:qsp.Demo@574b560f]" started-at="2021-03-01T18:17:17 IST" name="deletecustomer" finished-at="2021-03-01T18:17:17 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[deletecustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deletecustomer -->
+        <test-method signature="modifycustomer()[pri:1, instance:qsp.Demo@574b560f]" started-at="2021-03-01T18:17:17 IST" name="modifycustomer" finished-at="2021-03-01T18:17:17 IST" depends-on-methods="qsp.Demo.createcustomer" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[modifycustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- modifycustomer -->
+      </class> <!-- qsp.Demo -->
+      <class name="qsp.Demo1">
+        <test-method signature="createcustomer()[pri:0, instance:qsp.Demo1@757acd7b]" started-at="2021-03-01T18:17:17 IST" name="createcustomer" finished-at="2021-03-01T18:17:17 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[createcustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createcustomer -->
+        <test-method signature="deletecustomer()[pri:0, instance:qsp.Demo1@757acd7b]" started-at="2021-03-01T18:17:17 IST" name="deletecustomer" finished-at="2021-03-01T18:17:17 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[deletecustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deletecustomer -->
+        <test-method signature="modifycustomer()[pri:0, instance:qsp.Demo1@757acd7b]" started-at="2021-03-01T18:17:17 IST" name="modifycustomer" finished-at="2021-03-01T18:17:17 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[modifycustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- modifycustomer -->
+      </class> <!-- qsp.Demo1 -->
+      <class name="qsp.Demo2">
+        <test-method signature="createproject()[pri:0, instance:qsp.Demo2@36b4fe2a]" started-at="2021-03-01T18:17:17 IST" name="createproject" finished-at="2021-03-01T18:17:17 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[createproject]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createproject -->
+        <test-method signature="deleteproject()[pri:0, instance:qsp.Demo2@36b4fe2a]" started-at="2021-03-01T18:17:17 IST" name="deleteproject" finished-at="2021-03-01T18:17:17 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[deleteproject]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteproject -->
+        <test-method signature="modifyproject()[pri:0, instance:qsp.Demo2@36b4fe2a]" started-at="2021-03-01T18:17:17 IST" name="modifyproject" finished-at="2021-03-01T18:17:17 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[modifyproject]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- modifyproject -->
+      </class> <!-- qsp.Demo2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
